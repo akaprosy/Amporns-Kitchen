@@ -28,6 +28,7 @@ nav, ol, li {
     background-color: rgb(185, 134, 4);
     background-color: rgb(161, 18, 18);
     color: white;
+    flex-wrap: wrap;
 }
 
 main {
