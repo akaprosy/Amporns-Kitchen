@@ -76,7 +76,7 @@ h2 {
     margin: 5rem;
 }
 
-@media screen and (max-width:828px) {
+@media screen and (max-width:1000px) {
     .headerimages {
         width: 0%;
     }
