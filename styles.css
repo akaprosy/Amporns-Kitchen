@@ -1,8 +1,7 @@
 body {
     background-color:  rgb(250, 241, 217);
     margin: 0;
-    position: relative;
-    min-height: 100vh;
+   
 }
 header {
     display:flex;
